@@ -1,7 +1,10 @@
-const films=require('./planets.json')
+const Planets=require('./planets.json')
 
 module.exports={
     list: async ()=>{
-        return films;
+        return Planets;
+    },
+    create: async()=>{
+        throw Error('Error en la Base de Datos a la hora de crear el planeta')
     }
 }

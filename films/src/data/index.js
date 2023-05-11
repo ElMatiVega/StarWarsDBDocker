@@ -5,6 +5,6 @@ module.exports={
         return films;
     },
     create: async()=>{
-        throw Error('Error en la Base de Datos a la hora de crear el personaje')
+        throw Error('Error en la Base de Datos a la hora de crear el films')
     }
 }
