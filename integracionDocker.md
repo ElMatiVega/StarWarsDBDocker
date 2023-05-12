@@ -59,4 +59,8 @@ Tenemos que hacer una RED que funcione con docker, para eso abrimos un terminal 
 -ahora con la imagen del contenedor characters creada, ejecuto: 'docker run --network=starwars --name=characters -p 8001:8001  characters'
 Y LOS OTROS CONTENEDORES REPITO ESTE PASO.
 
+- 'docker run --network=starwars --name=films -p 8002:8002  films'
 
+- 'docker run --network=starwars --name=planets -p 8003:8003  planets'
+
+!!Es importante que los container no esten corriendo previamente y que este limpio la zona de containes, en caso contrario no van a correr!!!!
