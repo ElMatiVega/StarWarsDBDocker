@@ -3,6 +3,6 @@ module.exports=(req,res,next)=>{
     if(["Character", "Film", "Planet"].includes(model)){
         return next();
     }else{
-        throw Error('Invalid model')
+        throw new ClientError("Invalid model", 401);
     }
 }

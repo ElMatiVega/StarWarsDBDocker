@@ -7,7 +7,7 @@ const {Character, Film, Planet}=require('./src/database');
 
 // Character.insert({
 //   _id:"202",
-//   name:"Mati Vega",
+//   name:"Matt",
 //   birth_year:"1982",
 //   gender: 1
  
