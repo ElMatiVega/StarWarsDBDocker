@@ -27,8 +27,8 @@ planetSchema.statics.get= async function(id){
 
 }
 
-planetSchema.statics.insert= async function(film){
-    return await this.create(film)
+planetSchema.statics.insert= async function(Planet){
+    return await this.create(Planet)
 }
 
 

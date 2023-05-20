@@ -1,7 +1,6 @@
 const mongoose= require("mongoose");
-const {MONGO_URI} = require("../configs/envs");
-
-const conn= mongoose.createConnection(MONGO_URI);//closter creado en mongoose atlas
+const { MONGO_URI } = require("../config/envs.js");
+const conn = mongoose.createConnection(MONGO_URI)
 
 
 module.exports={

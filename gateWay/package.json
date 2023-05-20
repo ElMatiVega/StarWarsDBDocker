@@ -14,5 +14,8 @@
     "http-proxy-middelware": "^0.0.1-security",
     "http-proxy-middleware": "^2.0.6",
     "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
   }
 }
