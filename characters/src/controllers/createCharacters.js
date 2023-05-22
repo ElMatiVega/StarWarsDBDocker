@@ -4,5 +4,4 @@ const { response }= require('../utils');
 module.exports= async (req, res) => {
     const newCharacters= await Character.create();
     response(res,201, newCharacters)
-    //res.status(200).send("created Characters")
-};
+}
