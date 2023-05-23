@@ -2,7 +2,7 @@ version: '3'
 
 services:
   gateway:
-    image: gateway
+    image: gateWay
     container_name: gateway
     restart: always
     build: ./gateway
