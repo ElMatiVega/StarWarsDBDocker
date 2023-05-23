@@ -4,7 +4,7 @@ services:
   gateway:
     container_name: gateway
     restart: always
-    build: ./gateWay
+    build: ./gateway
     ports:
       - "8000:8000"
 
