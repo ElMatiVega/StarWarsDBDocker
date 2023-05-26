@@ -13,7 +13,7 @@ server.use("*",(req,res)=>{
     res.status(404).send("Not found")
 })
 
-//sobre escribir el manejador de express para que no se envie info con datos sobre nuestra app.
+//sobre escribir el manejador de express para que no se envie info con datos sobre nuestra app. LA TRAZA DEL ERROR
 
 server.use((err,req,res,next)=>{
     res.status(err.statusCode || 500 ).send({

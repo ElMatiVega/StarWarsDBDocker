@@ -5,6 +5,7 @@ const router = Router();
 
 router.get("/", controllers.getFilms);
 
+router.get("/:id", controllers.getFilmById);
 
 router.post("/", middlewares.filmsValidation, controllers.createFilms);
 

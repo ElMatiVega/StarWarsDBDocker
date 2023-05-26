@@ -2,7 +2,6 @@
   {
     "_id": "1",
     "name": "Luke Skywalker",
-    "img":"../../image",
     "height": "172",
     "mass": "77",
     "hair_color": "blond",
@@ -16,7 +15,6 @@
   {
     "_id": "2",
     "name": "C-3PO",
-    "img":"../../image/C-3PO.png",
     "height": "167",
     "mass": "75",
     "hair_color": "n/a",
@@ -30,7 +28,6 @@
   {
     "_id": "3",
     "name": "R2-D2",
-    "img":"../../image",
     "height": "96",
     "mass": "32",
     "hair_color": "n/a",
@@ -44,7 +41,6 @@
   {
     "_id": "4",
     "name": "Darth Vader",
-    "img":"../../image",
     "height": "202",
     "mass": "136",
     "hair_color": "none",
@@ -58,7 +54,6 @@
   {
     "_id": "5",
     "name": "Leia Organa",
-    "img":"../../image",
     "height": "150",
     "mass": "49",
     "hair_color": "brown",
@@ -72,7 +67,6 @@
   {
     "_id": "6",
     "name": "Owen Lars",
-    "img":"../../image",
     "height": "178",
     "mass": "120",
     "hair_color": "brown, grey",
@@ -86,7 +80,6 @@
   {
     "_id": "7",
     "name": "Beru Whitesun lars",
-    "img":"../../image",
     "height": "165",
     "mass": "75",
     "hair_color": "brown",
@@ -100,7 +93,6 @@
   {
     "_id": "8",
     "name": "R5-D4",
-    "img":"../../image",
     "height": "97",
     "mass": "32",
     "hair_color": "n/a",
@@ -114,7 +106,6 @@
   {
     "_id": "9",
     "name": "Biggs Darklighter",
-    "img":"../../image",
     "height": "183",
     "mass": "84",
     "hair_color": "black",
@@ -128,7 +119,6 @@
   {
     "_id": "10",
     "name": "Obi-Wan Kenobi",
-    "img":"../../image",
     "height": "182",
     "mass": "77",
     "hair_color": "auburn, white",
@@ -142,7 +132,6 @@
   {
     "_id": "11",
     "name": "Anakin Skywalker",
-    "img":"../../image",
     "height": "188",
     "mass": "84",
     "hair_color": "blond",
@@ -156,7 +145,6 @@
   {
     "_id": "12",
     "name": "Wilhuff Tarkin",
-    "img":"../../image",
     "height": "180",
     "mass": "unknown",
     "hair_color": "auburn, grey",
@@ -170,7 +158,6 @@
   {
     "_id": "13",
     "name": "Chewbacca",
-    "img":"../../image",
     "height": "228",
     "mass": "112",
     "hair_color": "brown",
@@ -184,7 +171,6 @@
   {
     "_id": "14",
     "name": "Han Solo",
-    "img":"../../image",
     "height": "180",
     "mass": "80",
     "hair_color": "brown",
@@ -198,7 +184,6 @@
   {
     "_id": "15",
     "name": "Greedo",
-    "img":"../../image",
     "height": "173",
     "mass": "74",
     "hair_color": "n/a",
@@ -212,7 +197,6 @@
   {
     "_id": "16",
     "name": "Jabba Desilijic Tiure",
-    "img":"../../image",
     "height": "175",
     "mass": "1,358",
     "hair_color": "n/a",
@@ -226,7 +210,6 @@
   {
     "_id": "18",
     "name": "Wedge Antilles",
-    "img":"../../image",
     "height": "170",
     "mass": "77",
     "hair_color": "brown",
@@ -240,7 +223,6 @@
   {
     "_id": "19",
     "name": "Jek Tono Porkins",
-    "img":"../../image",
     "height": "180",
     "mass": "110",
     "hair_color": "brown",
@@ -254,7 +236,6 @@
   {
     "_id": "20",
     "name": "Yoda",
-    "img":"../../image",
     "height": "66",
     "mass": "17",
     "hair_color": "white",
@@ -268,7 +249,6 @@
   {
     "_id": "21",
     "name": "Palpatine",
-    "img":"../../image",
     "height": "170",
     "mass": "75",
     "hair_color": "grey",
@@ -282,7 +262,6 @@
   {
     "_id": "22",
     "name": "Boba Fett",
-    "img":"",
     "height": "183",
     "mass": "78.2",
     "hair_color": "black",
@@ -296,7 +275,6 @@
   {
     "_id": "23",
     "name": "IG-88",
-    "img":"",
     "height": "200",
     "mass": "140",
     "hair_color": "none",
@@ -310,7 +288,6 @@
   {
     "_id": "24",
     "name": "Bossk",
-    "img":"",
     "height": "190",
     "mass": "113",
     "hair_color": "none",
@@ -324,7 +301,6 @@
   {
     "_id": "25",
     "name": "Lando Calrissian",
-    "img":"",
     "height": "177",
     "mass": "79",
     "hair_color": "black",
@@ -338,7 +314,6 @@
   {
     "_id": "26",
     "name": "Lobot",
-    "img":"",
     "height": "175",
     "mass": "79",
     "hair_color": "none",
@@ -352,7 +327,6 @@
   {
     "_id": "27",
     "name": "Ackbar",
-    "img":"",
     "height": "180",
     "mass": "83",
     "hair_color": "none",
@@ -366,7 +340,6 @@
   {
     "_id": "28",
     "name": "Mon Mothma",
-    "img":"",
     "height": "150",
     "mass": "unknown",
     "hair_color": "auburn",
@@ -380,7 +353,6 @@
   {
     "_id": "29",
     "name": "Arvel Crynyd",
-    "img":"",
     "height": "unknown",
     "mass": "unknown",
     "hair_color": "brown",
@@ -394,7 +366,6 @@
   {
     "_id": "30",
     "name": "Wicket Systri Warrick",
-    "img":"",
     "height": "88",
     "mass": "20",
     "hair_color": "brown",
@@ -408,7 +379,6 @@
   {
     "_id": "31",
     "name": "Nien Nunb",
-    "img":"",
     "height": "160",
     "mass": "68",
     "hair_color": "none",
@@ -422,7 +392,6 @@
   {
     "_id": "32",
     "name": "Qui-Gon Jinn",
-    "img":"",
     "height": "193",
     "mass": "89",
     "hair_color": "brown",
@@ -436,7 +405,6 @@
   {
     "_id": "33",
     "name": "Nute Gunray",
-    "img":"",
     "height": "191",
     "mass": "90",
     "hair_color": "none",
@@ -450,7 +418,6 @@
   {
     "_id": "34",
     "name": "Finis Valorum",
-    "img":"",
     "height": "170",
     "mass": "unknown",
     "hair_color": "blond",
@@ -464,7 +431,6 @@
   {
     "_id": "35",
     "name": "Padmé Am_idala",
-    "img":"",
     "height": "185",
     "mass": "45",
     "hair_color": "brown",
@@ -478,7 +444,6 @@
   {
     "_id": "36",
     "name": "Jar Jar Binks",
-    "img":"",
     "height": "196",
     "mass": "66",
     "hair_color": "none",
@@ -492,7 +457,6 @@
   {
     "_id": "37",
     "name": "Roos Tarpals",
-    "img":"",
     "height": "224",
     "mass": "82",
     "hair_color": "none",
@@ -506,7 +470,6 @@
   {
     "_id": "38",
     "name": "Rugor Nass",
-    "img":"",
     "height": "206",
     "mass": "unknown",
     "hair_color": "none",
@@ -520,7 +483,6 @@
   {
     "_id": "39",
     "name": "Ric Olié",
-    "img":"",
     "height": "183",
     "mass": "unknown",
     "hair_color": "brown",
@@ -534,7 +496,6 @@
   {
     "_id": "40",
     "name": "Watto",
-    "img":"",
     "height": "137",
     "mass": "unknown",
     "hair_color": "black",
@@ -548,7 +509,6 @@
   {
     "_id": "41",
     "name": "Sebulba",
-    "img":"",
     "height": "112",
     "mass": "40",
     "hair_color": "none",
@@ -562,7 +522,6 @@
   {
     "_id": "42",
     "name": "Quarsh Panaka",
-    "img":"",
     "height": "183",
     "mass": "unknown",
     "hair_color": "black",
@@ -576,7 +535,6 @@
   {
     "_id": "43",
     "name": "Shmi Skywalker",
-    "img":"",
     "height": "163",
     "mass": "unknown",
     "hair_color": "black",
@@ -590,7 +548,6 @@
   {
     "_id": "44",
     "name": "Darth Maul",
-    "img":"",
     "height": "175",
     "mass": "80",
     "hair_color": "none",
@@ -604,7 +561,6 @@
   {
     "_id": "45",
     "name": "Bib Fortuna",
-    "img":"",
     "height": "180",
     "mass": "unknown",
     "hair_color": "none",
@@ -618,7 +574,6 @@
   {
     "_id": "46",
     "name": "Ayla Secura",
-    "img":"",
     "height": "178",
     "mass": "55",
     "hair_color": "none",
@@ -632,7 +587,6 @@
   {
     "_id": "47",
     "name": "Ratts Tyerel",
-    "img":"",
     "height": "79",
     "mass": "15",
     "hair_color": "none",
@@ -646,7 +600,6 @@
   {
     "_id": "48",
     "name": "Dud Bolt",
-    "img":"",
     "height": "94",
     "mass": "45",
     "hair_color": "none",
@@ -660,7 +613,6 @@
   {
     "_id": "49",
     "name": "Gasgano",
-    "img":"",
     "height": "122",
     "mass": "unknown",
     "hair_color": "none",
@@ -674,7 +626,6 @@
   {
     "_id": "50",
     "name": "Ben Quadinaros",
-    "img":"",
     "height": "163",
     "mass": "65",
     "hair_color": "none",
@@ -688,7 +639,6 @@
   {
     "_id": "51",
     "name": "Mace Windu",
-    "img":"",
     "height": "188",
     "mass": "84",
     "hair_color": "none",
@@ -702,7 +652,6 @@
   {
     "_id": "52",
     "name": "Ki-Adi-Mundi",
-    "img":"",
     "height": "198",
     "mass": "82",
     "hair_color": "white",
@@ -716,7 +665,6 @@
   {
     "_id": "53",
     "name": "Kit Fisto",
-    "img":"",
     "height": "196",
     "mass": "87",
     "hair_color": "none",
@@ -730,7 +678,6 @@
   {
     "_id": "54",
     "name": "Eeth Koth",
-    "img":"",
     "height": "171",
     "mass": "unknown",
     "hair_color": "black",
@@ -744,7 +691,6 @@
   {
     "_id": "55",
     "name": "Adi Gallia",
-    "img":"",
     "height": "184",
     "mass": "50",
     "hair_color": "none",
@@ -758,7 +704,6 @@
   {
     "_id": "56",
     "name": "Saesee Tiin",
-    "img":"",
     "height": "188",
     "mass": "unknown",
     "hair_color": "none",
@@ -772,7 +717,6 @@
   {
     "_id": "57",
     "name": "Yarael Poof",
-    "img":"",
     "height": "264",
     "mass": "unknown",
     "hair_color": "none",
@@ -786,7 +730,6 @@
   {
     "_id": "58",
     "name": "Plo Koon",
-    "img":"",
     "height": "188",
     "mass": "80",
     "hair_color": "none",
@@ -800,7 +743,6 @@
   {
     "_id": "59",
     "name": "Mas Amedda",
-    "img":"",
     "height": "196",
     "mass": "unknown",
     "hair_color": "none",
@@ -814,7 +756,6 @@
   {
     "_id": "60",
     "name": "Gregar Typho",
-    "img":"",
     "height": "185",
     "mass": "85",
     "hair_color": "black",
@@ -828,7 +769,6 @@
   {
     "_id": "61",
     "name": "Cordé",
-    "img":"",
     "height": "157",
     "mass": "unknown",
     "hair_color": "brown",
@@ -842,7 +782,6 @@
   {
     "_id": "62",
     "name": "Cliegg Lars",
-    "img":"",
     "height": "183",
     "mass": "unknown",
     "hair_color": "brown",
@@ -856,7 +795,6 @@
   {
     "_id": "63",
     "name": "Poggle the Lesser",
-    "img":"",
     "height": "183",
     "mass": "80",
     "hair_color": "none",
@@ -870,7 +808,6 @@
   {
     "_id": "64",
     "name": "Luminara Unduli",
-    "img":"",
     "height": "170",
     "mass": "56.2",
     "hair_color": "black",
@@ -884,7 +821,6 @@
   {
     "_id": "65",
     "name": "Barriss Offee",
-    "img":"",
     "height": "166",
     "mass": "50",
     "hair_color": "black",
@@ -898,7 +834,6 @@
   {
     "_id": "66",
     "name": "Dormé",
-    "img":"",
     "height": "165",
     "mass": "unknown",
     "hair_color": "brown",
@@ -912,7 +847,6 @@
   {
     "_id": "67",
     "name": "Dooku",
-    "img":"",
     "height": "193",
     "mass": "80",
     "hair_color": "white",
@@ -926,7 +860,6 @@
   {
     "_id": "68",
     "name": "Bail Prestor Organa",
-    "img":"",
     "height": "191",
     "mass": "unknown",
     "hair_color": "black",
@@ -940,7 +873,6 @@
   {
     "_id": "69",
     "name": "Jango Fett",
-    "img":"",
     "height": "183",
     "mass": "79",
     "hair_color": "black",
@@ -954,7 +886,6 @@
   {
     "_id": "70",
     "name": "Zam Wesell",
-    "img":"",
     "height": "168",
     "mass": "55",
     "hair_color": "blonde",
@@ -968,7 +899,6 @@
   {
     "_id": "71",
     "name": "Dexter Jettster",
-    "img":"",
     "height": "198",
     "mass": "102",
     "hair_color": "none",
@@ -982,7 +912,6 @@
   {
     "_id": "72",
     "name": "Lama Su",
-    "img":"",
     "height": "229",
     "mass": "88",
     "hair_color": "none",
@@ -996,7 +925,6 @@
   {
     "_id": "73",
     "name": "Taun We",
-    "img":"",
     "height": "213",
     "mass": "unknown",
     "hair_color": "none",
@@ -1010,7 +938,6 @@
   {
     "_id": "74",
     "name": "Jocasta Nu",
-    "img":"",
     "height": "167",
     "mass": "unknown",
     "hair_color": "white",
@@ -1024,7 +951,6 @@
   {
     "_id": "75",
     "name": "R4-P17",
-    "img":"",
     "height": "96",
     "mass": "unknown",
     "hair_color": "none",
@@ -1038,7 +964,6 @@
   {
     "_id": "76",
     "name": "Wat Tambor",
-    "img":"",
     "height": "193",
     "mass": "48",
     "hair_color": "none",
@@ -1052,7 +977,6 @@
   {
     "_id": "77",
     "name": "San Hill",
-    "img":"",
     "height": "191",
     "mass": "unknown",
     "hair_color": "none",
@@ -1079,7 +1003,6 @@
   {
     "_id": "79",
     "name": "Grievous",
-    "img":"",
     "height": "216",
     "mass": "159",
     "hair_color": "none",
@@ -1093,7 +1016,6 @@
   {
     "_id": "80",
     "name": "Tarfful",
-    "img":"",
     "height": "234",
     "mass": "136",
     "hair_color": "brown",
@@ -1107,7 +1029,6 @@
   {
     "_id": "81",
     "name": "Raymus Antilles",
-    "img":"",
     "height": "188",
     "mass": "79",
     "hair_color": "brown",
@@ -1121,7 +1042,6 @@
   {
     "_id": "82",
     "name": "Sly Moore",
-    "img":"",
     "height": "178",
     "mass": "48",
     "hair_color": "none",
@@ -1135,7 +1055,6 @@
   {
     "_id": "83",
     "name": "Tion Medon",
-    "img":"",
     "height": "206",
     "mass": "80",
     "hair_color": "none",
