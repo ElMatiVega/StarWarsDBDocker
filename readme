@@ -1,0 +1,32 @@
+
+# API-Swagger Start Wars
+
+Podras ver los distintos endPionts y como será proveida la información para que pueda acceder a ella.
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/ElMatiVega/Docs-API-Start-Wras
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  nodemon -L swagger.js
+```
+
