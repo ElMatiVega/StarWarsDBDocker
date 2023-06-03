@@ -4,7 +4,13 @@
 Podras ver los distintos endPoints y como será la información devuelta para que pueda acceder y trabajar con ella.
 
 
+
+
 ## Run Locally
+
+Requicitos:
+- Asegurese de tener node instalado en su equipo.
+https://www.npmjs.com/package/node
 
 Clone the project
 
@@ -27,6 +33,6 @@ Install dependencies
 Start the server
 
 ```bash
-  nodemon -L swagger.js
+  node swagger.js
 ```
 
