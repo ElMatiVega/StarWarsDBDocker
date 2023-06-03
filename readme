@@ -9,13 +9,13 @@ Podras ver los distintos endPoints y como será la información devuelta para qu
 Clone the project
 
 ```bash
-  git clone https://github.com/ElMatiVega/Docs-API-Start-Wras
+  git clone https://github.com/ElMatiVega/Docs-API-Start-Wars
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Docs-API-Start-Wars
 ```
 
 Install dependencies
